@@ -1,2 +1,2 @@
 # ts-crkdesintdp
-Découverte Design Pattern 
+Discovery Design Pattern
